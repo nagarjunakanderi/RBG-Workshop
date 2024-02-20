@@ -7,7 +7,7 @@ public class NagarjunaClass {
 
 		System.out.println("siva");
 
-		System.out.println("sai");
+		System.out.println( "sai");
 
 	}
 
