@@ -6,7 +6,7 @@ public class Practiceclass
 	public static void main(String[] args) 
 	{
 		System.out.println("Done practic");
-
+		System.out.println("Done");
 	}
 
 }
