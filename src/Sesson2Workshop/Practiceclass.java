@@ -7,7 +7,7 @@ public class Practiceclass
 	{
 		System.out.println("Done practic");
 		System.out.println("Done");
-		sysout("Ranjith")
+		System.out.println("Ranjith");
 	}
 
 }
